@@ -20,10 +20,9 @@
 ## 🧑‍💻 About me
 
 - 🎓 B.Tech CSE student at BML Munjal University (Roll No. 240929)
-- 🔭 Currently building **Android apps** — Currency Converter, Media Player, Sensor Reader, Photo Gallery
 - 🌱 Currently learning **Backend Development & Cybersecurity**
 - 💻 Daily driver: **Arch Linux + Hyprland**
-- 🔐 Interested in **ethical hacking**, CTFs, and system security
+- 🔐 Interested in **ethical hacking**, CTFs, and system security and much more
 - ⚡ Fun fact: I run Omarchy on my machine and game on Linux
 
 <br/>
